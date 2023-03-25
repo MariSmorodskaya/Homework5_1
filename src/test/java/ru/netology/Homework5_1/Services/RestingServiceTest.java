@@ -2,7 +2,6 @@ package ru.netology.Homework5_1.Services;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.Homework5_1.Services.RestingService;
 
 public class RestingServiceTest {
 
